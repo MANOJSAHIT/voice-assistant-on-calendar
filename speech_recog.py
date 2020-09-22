@@ -13,7 +13,7 @@ import pyttsx3
 import pytz
 from gtts import gTTS
 import wordtodigits
-#changing some contents on manoj branch
+#changing some contents on manoj
 MONTHS=['january','february','march','april','may','june','july','august','september','october','november','december']
 words={'event','events','task','tasks','programme','programmes','plan','plans'}
 def speak(text):
